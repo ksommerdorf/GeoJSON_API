@@ -1,1 +1,3 @@
-# Mapping_Earthquakes
+# Mapping Earthquakes
+## Project Overview
+The objective of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days. The approach was to use JavaScript and D3.js library to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data. The Leaflet library was used to plot the data on a Mapbox style map through an API request and create an interactive html webpage. The interactive html webpage will help make earthquake maps informative and easy to use that will increase a positive buzz about the Disaster Reporting Network.
